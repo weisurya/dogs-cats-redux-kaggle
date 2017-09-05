@@ -1,0 +1,5 @@
+#.gitignore
+/data
+/sample
+/test
+*.pyc
